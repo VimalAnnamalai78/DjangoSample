@@ -1,0 +1,2 @@
+# DjangoSample
+Learning Django
